@@ -3,7 +3,7 @@ import os
 
 altura = float(input("Digite sua altura em metros: "))
 peso = float(input("Digite seu peso em Kg: "))
-/*
+"""
 imc = peso / altura**2
 
 print("Seu IMC: %.4f" % imc)
@@ -26,4 +26,4 @@ else:
         print("Obesidade Grau III (morbida)")
 
 os.system("pause")
-*/
+"""
